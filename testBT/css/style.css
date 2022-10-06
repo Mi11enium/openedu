@@ -1,3 +1,10 @@
 .upMenu a{
-    color: B2B2B2;
+    color: #B2B2B2;
+    text-transform: uppercase;
+    margin-left: 5px;
+}
+
+nav a {
+    color: #B2B2B2;
+    text-transform: uppercase;
 }
